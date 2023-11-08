@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/pho">
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>top.ico</file>
+        <file>window.ico</file>
+        <file>random.png</file>
+        <file>browse.png</file>
+        <file>random1.png</file>
+        <file>bg1.png</file>
+        <file>bg2.png</file>
+        <file>bg3.png</file>
+        <file>bg4.png</file>
+        <file>bg5.png</file>
+        <file>bg6.png</file>
+        <file>bg7.png</file>
+        <file>bg8.png</file>
+        <file>bg9.png</file>
+        <file>bg10.png</file>
+        <file>bg11.png</file>
+        <file>bg12.png</file>
+        <file>bg13.png</file>
+        <file>bg14.png</file>
+        <file>mult.png</file>
+        <file>vloume.png</file>
+    </qresource>
+</RCC>
